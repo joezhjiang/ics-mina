@@ -1,5 +1,12 @@
 *.class
-
+.settings
+.settings/*
+target
+target/*
+*/target
+*/target/*
+.classpath
+.project
 # Package Files #
 *.jar
 *.war
